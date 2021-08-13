@@ -3,10 +3,16 @@
 A new Flutter application.
 
 <ul>
-<img align="left" width="300px" height="600" src="https://github.com/AdityaRmore/E-Market/blob/master/assets/images/1.jpg" />
-<img align="left" width="300px" height="600" src="https://github.com/AdityaRmore/E-Market/blob/master/assets/images/2.jpg" />
-<img align="left" width="300px" height="600" src="https://github.com/AdityaRmore/E-Market/blob/master/assets/images/3.jpg" />
-<img align="left" width="300px" height="600" src="https://github.com/AdityaRmore/E-Market/blob/master/assets/images/4.jpg" />
+<img  width="300px" height="600" src="https://github.com/AdityaRmore/E-Market/blob/master/assets/images/1.jpg" />
+ 
+ 
+<img  width="300px" height="600" src="https://github.com/AdityaRmore/E-Market/blob/master/assets/images/2.jpg" />
+ 
+ 
+<img  width="300px" height="600" src="https://github.com/AdityaRmore/E-Market/blob/master/assets/images/3.jpg" />
+ 
+ 
+<img  width="300px" height="600" src="https://github.com/AdityaRmore/E-Market/blob/master/assets/images/4.jpg" />
 
  </ul>
 
